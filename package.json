@@ -1,0 +1,17 @@
+{
+  "name": "projetojest",
+  "version": "1.0.0",
+  "description": "Projeto Jest para o curso",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "jest"
+  ],
+  "author": "Douglas Jaeger",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.6.3"
+  }
+}
