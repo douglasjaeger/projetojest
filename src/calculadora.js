@@ -1,3 +1,4 @@
-const {sun} = require('../src/calculadora.js');
+const {sun} = require('../test/calculadora.test');
 
-console.log('2,2');
+console.log(sun(2,2));
+
